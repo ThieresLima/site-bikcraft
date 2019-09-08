@@ -1,0 +1,10 @@
+Estilo
+	geométrico nas formas, orgânico na tipografia.
+
+Tipografia
+	Georgia e arial/Helvetica
+
+
+cores
+	#fec63e
+	#000000
